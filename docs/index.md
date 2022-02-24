@@ -7,3 +7,5 @@ Here is a calm autumnal scene.
 ## Level 2 heading
 
 [Check out Wikipedia!](https://wikipedia.org/)
+
+[Link to my page about autumnal animals](animals/)
