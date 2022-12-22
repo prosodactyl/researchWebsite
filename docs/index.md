@@ -1,11 +1,12 @@
-# Autumnal Animals
+# Hola!
 
-![donkey and sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sheep_%28Ovis_aries%29_and_Donkey_%28Equus_africanus_asinus%29_-_FrogHollow_Farm_Sanctuary_2019-10-26.jpg/512px-Sheep_%28Ovis_aries%29_and_Donkey_%28Equus_africanus_asinus%29_-_FrogHollow_Farm_Sanctuary_2019-10-26.jpg)
+## About me
+My name is Michelle Perdomo. I received my Ph.D. in linguistics at the University of Florida in August 2017 and am currently a postdoc scholar at Vanderbilt University in the Communication and Language Lab under Dr. Duane Watson. My main research interests include psycholinguistics and second language acquisition, with particular focus in prosodic production and usage-based approaches to language acquisition. I also dabble in phonological acquisition, comprehension of prosodic cues, and topic status in information structure.
 
-Here is a calm autumnal scene.
+My interest in linguistics stems from my background as a Heritage speaker of Spanish as well as my role as an English instructor and language learner. I am keenly interested in the similarities and differences between native speakers and language learners as they relate to the representation of language.
 
-## Level 2 heading
+My dissertation project investigated use of phrasal verbs in native English speakers and learners of English. Phrasal verbs are fairly ubiquitous in the English language (e.g. hang out, turn on, throw up, put down), yet they are notoriously difficult for learners to acquire. Moreover, previous literature informs us that the nature of a learner's first language influences the extent to which they use a phrasal verb in the target language. I investigated the production and processing of phrasal verb alternating constructions (e.g. Mark put down the book vs. Mark put the book down) by Chinese and Spanish learners of English, two language backgrounds that differ in their typological distance from English.
 
-[Check out Wikipedia!](https://wikipedia.org/)
+In addition to my dissertation research, I also investigate the role of prosody in native and learner language processing. Prosody refers to the aspects of spoken language that detail the way individual speakers do or do not sound like one another; that is, the intonation, stress, rhythm and pitch of their language differs. Little is known about how or whether language learners can use prosody from the target language to aid in processing of speech. I use behavioral methods to explore whether learners of English use English-language prosodic cues in the same capacity that native speakers do in speech processing.
 
-[Link to my page about autumnal animals](animals/)
+Aside from my studies, traveling is one of my major hobbies. I thoroughly enjoy Couch Surfing and staying at hostels to gain a more authentic feel for culture and language (preferences which were likely shaped by traveling on a budget). I also appreciate spending time entertaining my cats, tending to my plants, listening to music, and strength training.
